@@ -1,13 +1,13 @@
 # Site settings
-title: Your site
+title: Just a blog
 description: >
-    Your description
-author: Your name
-email: your@e.mail
+    ''
+author: Don Han
+email: donhanttt@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourname.github.io" # the base hostname & protocol for your site
-twitter_username: YourTwitter
-github_username:  YourGitHub
+url: "https://vardonhan.github.io" # the base hostname & protocol for your site
+twitter_username: ''
+github_username:  vardonhan
 
 disqus_shortname: YourDisqusShortname
 
