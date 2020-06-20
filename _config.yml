@@ -1,7 +1,7 @@
 # Site settings
-title: Just a blog
+title: Don's blog
 description: >
-    ''
+    Just a blog
 author: Don Han
 email: donhanttt@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
